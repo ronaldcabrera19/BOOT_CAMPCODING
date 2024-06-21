@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using DAY3.Model
+@{
+    
+    var ListOfInventoryModel = new List<Inventory>();
+    
+    ListOfInventoryModel.Add(new Inventory(101, "KISS", "SNACK", "1A2F3", 34, "02/12/2024"));
+    ListOfInventoryModel.Add(new Inventory(102, "CLOVER", "SNACK", "1L2J3", 50, "02/12/2024"));
+    ListOfInventoryModel.Add(new Inventory(103, "MOBY", "SNACK", "1O2U3", 50, "02/12/2024"));
+    ListOfInventoryModel.Add(new Inventory(104, "BANGUS", "SNACK", "1J2H3", 10, "02/12/2024"));
+    ListOfInventoryModel.Add(new Inventory(105, "MANG JUAN", "SNACK", "1R2C3", 15, "02/12/2024"));
+
+}
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <td>ItemID</td>
+            <td>ItemName</td>
+            <td>ItemDescription</td>
+            <td>ItemCode</td>
+            <td>Quantity</td>
+            <td>CreateDate</td>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach(var inv in ListOfInventoryModel){
+                <tr>
+                    <td>@inv.ItemID</td>
+                    <td>@inv.ItemName</td>
+                    <td>@inv.ItemDescription</td>
+                    <td>@inv.ItemCode</td>
+                    <td>@inv.Quantity</td>
+                    <td>@inv.CreateDate</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

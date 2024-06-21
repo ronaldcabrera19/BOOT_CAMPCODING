@@ -1,0 +1,15 @@
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\bin\Debug\net8.0\DAY1.exe
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\bin\Debug\net8.0\DAY1.deps.json
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\bin\Debug\net8.0\DAY1.runtimeconfig.json
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\bin\Debug\net8.0\DAY1.dll
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\bin\Debug\net8.0\DAY1.pdb
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\obj\Debug\net8.0\DAY1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\obj\Debug\net8.0\DAY1.AssemblyInfoInputs.cache
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\obj\Debug\net8.0\DAY1.AssemblyInfo.cs
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\obj\Debug\net8.0\DAY1.csproj.CoreCompileInputs.cache
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\obj\Debug\net8.0\DAY1.sourcelink.json
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\obj\Debug\net8.0\DAY1.dll
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\obj\Debug\net8.0\refint\DAY1.dll
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\obj\Debug\net8.0\DAY1.pdb
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\obj\Debug\net8.0\DAY1.genruntimeconfig.cache
+C:\Users\63906\OneDrive\Desktop\PRACTICE CODING\BOOT_CAMPCODING\DAY1\obj\Debug\net8.0\ref\DAY1.dll
